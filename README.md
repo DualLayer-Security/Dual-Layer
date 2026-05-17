@@ -49,8 +49,8 @@ Incluye todo el ciclo de un incidente de seguridad:
 * Mitigación mediante iptables
 * Verificación del impacto
 
-👉 Proyecto disponible en este repositorio
-  /DualLayer-Security/SOC-Lab-SSH-BruteForce
+👉 Proyecto disponible en este repositorio:  
+[DualLayer-Security/SOC-Lab-SSH-BruteForce](https://github.com/DualLayer-Security/SOC-Lab-SSH-BruteForce)
 
 ---
 
