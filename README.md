@@ -1,5 +1,6 @@
 # Dual-Layer
-# 🛡️ Perfil de GitHub — Ciberseguridad (SOC / Blue Team)
+
+# 🛡️ Ciberseguridad (SOC / Blue Team)
 
 ## 👋 Sobre mí
 
