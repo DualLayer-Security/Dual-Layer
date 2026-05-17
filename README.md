@@ -50,6 +50,7 @@ Incluye todo el ciclo de un incidente de seguridad:
 * Verificación del impacto
 
 👉 Proyecto disponible en este repositorio
+  /DualLayer-Security/SOC-Lab-SSH-BruteForce
 
 ---
 
